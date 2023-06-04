@@ -36,7 +36,7 @@ public class Slf4jDemo1 {
 
 //        logger.warn("err " + (System.currentTimeMillis() - start2));
 //        logger.error("error");
-    }
+    }   
 
     private static List<String> makeList() {
         List<String> list = new ArrayList<>();
